@@ -1,2 +1,2 @@
-id = ("voiddemon_ID")
+id = ("voiddemon")
 passwd = ("0PL9DELUGE")
